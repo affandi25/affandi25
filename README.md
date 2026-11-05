@@ -1,3 +1,9 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/affandi25/affandi25/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/affandi25/affandi25/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/affandi25/affandi25/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
 <h1 align="center">Hai 👋, saya Muhammad Yusuf Affandi</h1>
 <h3 align="center">Seorang pengembang frontend dan desainer UI/UX yang bersemangat dari Indonesia</h3>
 
