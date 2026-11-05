@@ -11532,7 +11532,16 @@
         "height": 240
       },
       "config": {
-        "accentColor": "#ffa657"
+        "accentColor": "#ffa657",
+        "paletteIndex": 0,
+        "palette": [
+          "#161b22",
+          "#0e4429",
+          "#006d32",
+          "#26a641",
+          "#39d353",
+          "#69f0a0"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -11610,7 +11619,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793894535309_3uose",
-    "updatedAt": "2026-11-05T16:02:20.233Z"
+    "revision": "rev_1793895355069_vhg07",
+    "updatedAt": "2026-11-05T16:15:58.624Z"
   }
 }
